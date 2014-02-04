@@ -1,0 +1,27 @@
+#always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.css
+
+#other
+.DS_Store
+._*
+.sass-cache
+Thumbs.db
+node_modules
+node
+webapp-built
+requirejs-example-multipage
+
+#testing
+webapp/testing/spec/PlayerSpec.js
+webapp/testing/spec/SpecHelper.js
+webapp/testing/src/Song.js
+webapp/testing/src/Player.js
