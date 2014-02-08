@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F3969F9D-0450-42C0-BCFC-2286497CDB95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ulive-demo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5960C330-E343-4404-875C-E6030C6F69FC</key>
+		<string>ssh://github.com/oosby/poc-ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ulive-demo/ulive-demo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5960C330-E343-4404-875C-E6030C6F69FC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/oosby/poc-ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5960C330-E343-4404-875C-E6030C6F69FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5960C330-E343-4404-875C-E6030C6F69FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>poc-ios</string>
+		</dict>
+	</array>
+</dict>
+</plist>

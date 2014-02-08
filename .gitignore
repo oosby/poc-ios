@@ -20,6 +20,10 @@ node
 webapp-built
 requirejs-example-multipage
 
+#ios
+JSONtest
+ToDoList
+
 #testing
 webapp/testing/spec/PlayerSpec.js
 webapp/testing/spec/SpecHelper.js
